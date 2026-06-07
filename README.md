@@ -1,0 +1,1 @@
+[![ajs - Object, Reflection and Proxy](https://github.com/ivantr033/ajs-homeworks-ORProxy/actions/workflows/webpack.yml/badge.svg)](https://github.com/ivantr033/ajs-homeworks-ORProxy/actions/workflows/webpack.yml)
